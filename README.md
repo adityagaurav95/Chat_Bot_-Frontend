@@ -39,3 +39,7 @@ Run the frontend
 
 npm run dev
 Runs on http://localhost:5173 by default.
+
+
+
+Deployment Link - https://staging.dj8uiibthvivs.amplifyapp.com/
